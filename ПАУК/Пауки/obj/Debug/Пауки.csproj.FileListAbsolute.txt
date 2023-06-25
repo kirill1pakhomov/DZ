@@ -1,0 +1,44 @@
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.Form1.resources
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.Properties.Resources.resources
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\bin\Debug\Пауки.exe.config
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\bin\Debug\Пауки.exe
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\bin\Debug\Пауки.pdb
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.exe
+C:\Users\Student\Desktop\OPBD\Пауки\Пауки\obj\Debug\Пауки.pdb
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.Form1.resources
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.Properties.Resources.resources
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.exe
+C:\Users\Student\Desktop\Пауки\Пауки\obj\Debug\Пауки.pdb
+C:\Users\Student\Desktop\Пауки\Пауки\bin\Debug\Пауки.exe.config
+C:\Users\Student\Desktop\Пауки\Пауки\bin\Debug\Пауки.exe
+C:\Users\Student\Desktop\Пауки\Пауки\bin\Debug\Пауки.pdb
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.AssemblyReference.cache
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.SuggestedBindingRedirects.cache
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.Form1.resources
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.Properties.Resources.resources
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.GenerateResource.cache
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.CoreCompileInputs.cache
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.exe
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.pdb
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\bin\Debug\Пауки.exe.config
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\bin\Debug\Пауки.exe
+C:\Users\mzavo\OneDrive\Рабочий стол\Пауки\Пауки\bin\Debug\Пауки.pdb
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\bin\Debug\Пауки.exe.config
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\bin\Debug\Пауки.exe
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\bin\Debug\Пауки.pdb
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.AssemblyReference.cache
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.SuggestedBindingRedirects.cache
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.Form1.resources
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.Properties.Resources.resources
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.GenerateResource.cache
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.csproj.CoreCompileInputs.cache
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.exe
+C:\Users\evgkv\OneDrive\Рабочий стол\Пауки\Пауки\obj\Debug\Пауки.pdb
